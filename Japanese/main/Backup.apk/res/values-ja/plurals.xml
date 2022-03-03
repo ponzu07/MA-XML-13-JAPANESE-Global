@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="backup_items_app_tailer">
-        <item quantity="other">%d app data files</item>
-        <item quantity="one">%d app data file</item>
+        <item quantity="other">%d個のアプリデータファイル</item>
+        <item quantity="one">%d個のアプリデータファイル</item>
     </plurals>
     <plurals name="backup_items_sysdata_tailer">
-        <item quantity="other">%d system data files</item>
-        <item quantity="one">%d system data file</item>
+        <item quantity="other">%d個のシステムデータファイル</item>
+        <item quantity="one">%d個のシステムデータファイル</item>
     </plurals>
     <plurals name="custom_progress">
         <item quantity="other">%d個のアイテム</item>
@@ -33,12 +33,12 @@
         <item quantity="one">%d個のアイテムをインポートおよび復元しました</item>
     </plurals>
     <plurals name="select_item_count_unit">
-        <item quantity="other">items</item>
-        <item quantity="one">item</item>
+        <item quantity="other">アイテム</item>
+        <item quantity="one">アイテム</item>
     </plurals>
     <plurals name="select_item_summary">
-        <item quantity="other">%1$s | %2$d items</item>
-        <item quantity="one">%1$s | %2$d item</item>
+        <item quantity="other">%1$s | %2$d個のアイテム</item>
+        <item quantity="one">%1$s | %2$d個のアイテム</item>
     </plurals>
     <plurals name="total_num">
         <item quantity="other">%d個のアイテム、</item>

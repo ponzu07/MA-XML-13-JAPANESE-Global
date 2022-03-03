@@ -2,7 +2,7 @@
 <resources>
     <string-array name="trans_cancel_survey_title">
         <item>Transfer takes too long</item>
-        <item>Connection was interrupted</item>
+        <item>接続が切断されました</item>
         <item>I selected wrong items to transfer</item>
         <item>Too many steps</item>
         <item>"My phone's battery is low"</item>
